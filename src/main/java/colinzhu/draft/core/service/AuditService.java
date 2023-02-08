@@ -1,6 +1,6 @@
-package colinzhu.workflow.core.service;
+package colinzhu.draft.core.service;
 
-import colinzhu.workflow.core.model.Audit;
+import colinzhu.draft.core.model.Audit;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.random.RandomGenerator;

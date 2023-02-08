@@ -1,4 +1,4 @@
-package colinzhu.workflow.core.model;
+package colinzhu.draft.core.model;
 
 public interface ID {
     Long getId();

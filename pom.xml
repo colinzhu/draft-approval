@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>colinzhu</groupId>
-    <artifactId>workflow</artifactId>
+    <artifactId>draft-approval</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>workflow</name>
-    <url>https://github.com/colinzhu/workflow</url>
+    <name>draft-approval</name>
+    <url>https://github.com/colinzhu/draft-approval</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

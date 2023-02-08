@@ -1,6 +1,6 @@
-package colinzhu.workflow.model;
+package colinzhu.draft.example.model;
 
-import colinzhu.workflow.core.model.ID;
+import colinzhu.draft.core.model.ID;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
