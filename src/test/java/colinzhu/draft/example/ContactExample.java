@@ -8,7 +8,7 @@ import colinzhu.draft.example.service.ContactService;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class MainTest {
+public class ContactExample {
   public static void main(String[] args) {
     Contact master = new Contact(2222L, "Colin", "Tianhe");
     Contact temp = new Contact(null, "Jim", "UK");
